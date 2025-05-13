@@ -1,0 +1,2 @@
+# Ignore local API key file
+bullflag/trading/local_api_keys.py
